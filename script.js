@@ -8,7 +8,7 @@ const chatbotCloseBtn = document.querySelector(".close-btn");
 
 
 let userMessage;
-const API_KEY = "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";
+const API_KEY = "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";
 const inputInitHeight =chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
